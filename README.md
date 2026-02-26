@@ -69,7 +69,7 @@
 
 
 -------------------
-## 담당 파트 대표 화면
+## 📍 담당 파트 대표 화면
 
 ### 병원상세
 <img width="1263" height="624" alt="병원상세1 (1)" src="https://github.com/user-attachments/assets/c894e998-bb24-4e6a-8c73-1cae0dd95a2a" />
